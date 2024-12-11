@@ -2,7 +2,7 @@
 
 # Santander Customer Satisfaction Prediction
 
-* **One Sentence Summary**: This repository contains an end-to-end machine learning pipeline to predict customer dissatisfaction using the Santander Customer Satisfaction dataset from [Kaggle](https://www.kaggle.com/competitions/santander-customer-satisfaction/overview).
+* **Summary**: This repository contains an end-to-end machine learning pipeline to predict customer dissatisfaction using the Santander Customer Satisfaction dataset from [Kaggle](https://www.kaggle.com/competitions/santander-customer-satisfaction/overview).
 
 ---
 
