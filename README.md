@@ -24,7 +24,7 @@
 - **Input**:
   - Numerical features (anonymized) from a CSV file.
   - Train dataset: Includes a binary `TARGET` variable.
-  - Test dataset: Includes only features (predictions submitted for evaluation).
+  - Test dataset: Includes only features.
 - **Size**:
   - Training data: **76,020 rows × 371 columns**.
   - Test data: **75,028 rows × 370 columns**.
